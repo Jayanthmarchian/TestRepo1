@@ -1,0 +1,3 @@
+Hello Jayanth This is your first aided tutorial for Git bash
+Have fun!!!
+You are better than everybody else!
